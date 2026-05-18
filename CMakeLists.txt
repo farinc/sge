@@ -115,6 +115,7 @@ install(
 	TARGETS
 		spoolb
 		spoolc
+		drmaa
 	DESTINATION lib/lx-amd64
 )
 install(
