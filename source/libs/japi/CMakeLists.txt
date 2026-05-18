@@ -22,6 +22,7 @@ target_include_directories(drmaa PRIVATE
 	../../daemons/qmaster
 	../../libs/evm
 	../../libs/uti
+	../gdi
 	../cull
 	../sgeobj
 )
